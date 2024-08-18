@@ -4,9 +4,12 @@ Machina Tecnonlogia da Informação Ltda, or Machina for short, is
 [Thiago H. de Paula Figueiredo](https://github.com/thiagohp)'s
 one-person company.
 
-Besides software development, we provide [Apache Tapestry](https://tapestry.apache.org) 
+Besides software development, Machina provides [Apache Tapestry](https://tapestry.apache.org) 
 consultancy. Thiago is a Tapestry's long-time committer and project management committee 
 member.
+
+Machina's GitHub id is `machina-br` because `machina` was already taken and the company is
+located in Belo Horizonte, Minas Gerais, Brazil.
 
 <!--
 

@@ -9,7 +9,7 @@ consultancy. Thiago is a Tapestry's long-time committer and project management c
 member.
 
 [You can sponsor Thiago's work on Tapestry](https://github.com/sponsors/machina-br). Click this link or
-the Sponsors button above.
+the Sponsor button above.
 
 Machina's GitHub id is `machina-br` because `machina` was already taken and the company is
 located in Belo Horizonte, Minas Gerais, Brazil.

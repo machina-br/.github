@@ -1,6 +1,6 @@
 ## Machina Tecnologia da Informação Ltda.
 
-Machina Tecnonlogia da Informação Ltda, or Machina for short, is 
+Machina Tecnologia da Informação Ltda, or Machina for short, is 
 [Thiago H. de Paula Figueiredo](https://github.com/thiagohp)'s
 one-person company.
 
